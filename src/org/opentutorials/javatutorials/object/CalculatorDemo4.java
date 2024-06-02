@@ -13,7 +13,7 @@ class Calculator {
     }
 
     public void avg() {
-        System.out.println((this.left / this.right)/2);
+        System.out.println((this.left + this.right)/2);
     }
 }
 
