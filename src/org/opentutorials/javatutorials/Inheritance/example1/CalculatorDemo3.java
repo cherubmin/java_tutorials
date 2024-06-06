@@ -19,3 +19,7 @@ public class CalculatorDemo3 {
     }
 
 }
+//상속 장점
+//코드 중복 제거
+//유지보수성 증가
+//재활용성 업업업
